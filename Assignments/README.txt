@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 It belongs to master branch
+=======
+It belongs to js assignment branch
+>>>>>>> js-assignments
 <<<<<<< HEAD
 It is an text file
 There are many css styles
