@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+It belongs to master branch
 <<<<<<< HEAD
 It is an text file
 There are many css styles
