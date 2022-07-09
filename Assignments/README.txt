@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+It belongs to js assignment branch
 <<<<<<< HEAD
 It is an text file
 There are many css styles
